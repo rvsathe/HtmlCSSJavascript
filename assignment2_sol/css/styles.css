@@ -11,11 +11,13 @@
     margin-top: 0;
     margin-bottom: 0;
     line-height: .75;
+    text-align: left;
 }
 
 #nav-list{
     background-color:coral;
     color:black;
+    text-align: center;
 }
 
 #tall-section{
