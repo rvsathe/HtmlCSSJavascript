@@ -1,0 +1,27 @@
+#header-nav {
+    background-color: maroon;
+    border: 0;
+}
+
+.navbar-brand h1 {
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+
+#nav-list{
+    background-color:coral;
+    color:black;
+}
+
+#tall-section{
+    background-color: grey;
+}
+
+}
+
+
